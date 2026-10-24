@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TaskFlow API",
+      "request": "launch",
+      "mainClass": "com.taskflow.api.TaskFlowApplication",
+      "projectName": "taskflow-api",
+      "cwd": "${workspaceFolder}/backend"
+    }
+  ]
+}
